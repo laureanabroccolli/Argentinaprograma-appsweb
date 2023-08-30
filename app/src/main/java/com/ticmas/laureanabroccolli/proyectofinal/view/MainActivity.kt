@@ -4,8 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
-import com.ticmas.romanrios.proyectofinal.databinding.ActivityMainBinding
-import com.ticmas.romanrios.proyectofinal.model.DataModel
+import com.ticmas.laureanabroccolli.proyectofinal.databinding.ActivityMainBinding
+import com.ticmas.laureanabroccolli.proyectofinal.model.DataModel
 
 class MainActivity : AppCompatActivity() {
 
