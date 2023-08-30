@@ -7,7 +7,7 @@ import androidx.test.espresso.action.ViewActions
 import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.ext.junit.rules.ActivityScenarioRule
-import com.ticmas.romanrios.proyectofinal.R
+import com.ticmas.laureanabroccolli.proyectofinal.R
 import org.junit.After
 import org.junit.Before
 import org.junit.Rule
