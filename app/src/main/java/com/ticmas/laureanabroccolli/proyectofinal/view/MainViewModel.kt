@@ -3,7 +3,7 @@ package com.ticmas.laureanabroccolli.proyectofinal.view
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.ticmas.romanrios.proyectofinal.model.DataModel
+import com.ticmas.laureanabroccolli.proyectofinal.model.DataModel
 
 class MainViewModel : ViewModel() {
 
